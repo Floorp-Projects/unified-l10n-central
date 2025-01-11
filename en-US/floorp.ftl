@@ -940,6 +940,9 @@ move-tab-another-workspace =
 rename-workspace-prompt-title = Rename Workspace
 rename-workspace-prompt-text = Enter Workspace Name. Most characters and symbols can be used.
 
+delete-workspace-prompt-title = Delete Workspace
+delete-workspace-prompt-text = Please confirm to delete workspace: { $name }
+
 workspaces-toolbar-button = Workspaces
   .label = Workspaces
   .tooltiptext = Select a Workspace...
