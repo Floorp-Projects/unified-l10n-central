@@ -303,7 +303,7 @@ newtab-background-selected-one-image =
 
 newtab-background-folder = Use images from this folder:
 
-newtab-background-image = Use image :
+newtab-background-image = Use image:
 
 newtab-choose-image = Choose Image...
 
@@ -610,7 +610,7 @@ floorp-custom-actions-custom-action = Custom Actions (Experimental)
 mouse-gesture = Mouse Gestures
 mouse-gesture-description = Gesturefy must be installed to use mouse gestures with { -brand-short-name }.
 Gesturefy = Gesturefy
-about-Gesturefy = Gesturefy is an extension that adds mouse gestures to your browser. If { -brand-short-name } detects the installation of this add-on, it will add gesture commands to Gesturefy that are only available in { -brand-short-name }. This add-on also create new tabs!
+about-Gesturefy = Gesturefy is an extension that adds mouse gestures to your browser. If { -brand-short-name } detects the installation of this add-on, it will add gesture commands to Gesturefy that are only available in { -brand-short-name }. This add-on also creates new tabs!
 
 # Translate
 TWS = Translate Web Pages
@@ -915,10 +915,10 @@ workspaces-manage-workspaces-button =
   .label = Manage Workspaces...
   .tooltiptext = Manage your Workspaces
 reorder-this-workspace-to-up =
-  .label = Move up this Workspace
+  .label = Move this Workspace up
   .accesskey = B
 reorder-this-workspace-to-down =
-  .label = Move down this Workspace
+  .label = Move this Workspace down
   .accesskey = A
 
 rename-this-workspace =
